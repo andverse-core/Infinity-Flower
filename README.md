@@ -1,5 +1,7 @@
 # Infinity-Flower
 
+![GitHub Logo](/REDMEPicture/show.png)
+
 ## Tutorial
 
 1. WASD，Forward/LEFT/RIGHT/BACK

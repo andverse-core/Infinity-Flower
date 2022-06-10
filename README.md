@@ -1,6 +1,6 @@
 # Infinity-Flower
 
-![GitHub Logo](/REDMEPicture/show.png)
+![GitHub Logo](/READMEPicture/show.png)
 
 ## Tutorial
 
